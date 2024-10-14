@@ -1,5 +1,3 @@
-Here is the English translation of the repository introduction for the code used in your paper:
-
 # Ethereum Measurement
 
 ## Getting Started
