@@ -1,0 +1,11 @@
+datadir: '/media/disk1/chaindata/ethmainnet/cl'
+jwt-secret: '/media/disk1/chaindata/ethmainnet/jwt.hex'
+execution-endpoint: 'http://localhost:8551'
+p2p-tcp-port: 13000
+p2p-udp-port: 12000
+grpc-gateway-port: 3500
+monitoring-port: 8080
+rpc-port: 4000
+checkpoint-sync-url: 'https://checkpointz.pietjepuk.net'
+genesis-beacon-api-url: 'https://checkpointz.pietjepuk.net'
+suggested-fee-recipient: '0xAFA4EF348FD33A59c19Ef76179F9E87E4D3927f6'
